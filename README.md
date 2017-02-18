@@ -15,7 +15,8 @@ Please copy the following files in different folder to your server:
 - uninstall-service.bat - remove Windows service
 
 # Who am I?
-Name: 陈小勇  Shay Chen
+Name: Shay Chen(陈小勇)
+
 Location: ShenZhen,China
 
 Homepage: http://www.shayboke.com
